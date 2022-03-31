@@ -13,7 +13,7 @@ Esta guía te dará información general sobre la documentación y te ayudará a
 
 ## Qué es la documentación
 
-La documentación es un texto escrito que explica las características de un proyecto o código. Proporciona una descripción completa del objeto a documentar. Se puede presentar en distintos medios: comentarios de un código, repositorio en línea, página web, entre otros. Además, puede incluir imágenes, ya sea en ciertas partes o en su totalidad.
+La documentación es un texto escrito que explica las características y proporciona una descripción completa de un proyecto o código. Se puede presentar en distintos medios: comentarios de un código, repositorio en línea, página web, entre otros. Además, puede incluir imágenes, ya sea en ciertas partes o en su totalidad.
 
 Se tiene dos tipos principales de documentación:
 * Funcional: busca explicar el producto y su funcionamiento.
@@ -28,7 +28,7 @@ Tener un proyecto bien documentado trae ventajas tanto para el autor como para l
 * Los desarrolladores pueden colaborar al código sin perder de vista la intención del autor.
 * Los usuarios pueden decidir de manera más fácil si el proyecto es útil para ellos.
 
-Para más información visita [A beginner’s guide to writing documentation — Write the Docs](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/).
+Para más información sobre documentación visita [A beginner’s guide to writing documentation — Write the Docs](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/).
 
 ## Cómo crear tu primer README
 
@@ -36,13 +36,13 @@ Usarás un archivo README para crear tu primera documentación. Generalmente, un
 
 ![graf_p1](https://user-images.githubusercontent.com/70402438/160968390-7796f555-4961-4133-8ed6-0eddd3dd3aee.png)
 
-Posteriormente, entra a tu repositorio y haz click sobre el README. Para poder editarlo, haz click sobre el lápiz en la parte superior derecha. Ahora solo queda darle forma a tu documento.
+Posteriormente, entra a tu repositorio y haz click sobre el README. Para poder editarlo, haz click sobre el lápiz en la parte superior derecha. Solo queda darle forma a tu documento.
 
 ![img1_p1](https://user-images.githubusercontent.com/70402438/160965235-de672e9d-c276-4524-9765-e4c639ec0665.png)
 
 ### Cómo escribir usando MARKDOWN
 
-Un archivo README usualmente se escribe en Markdown. Es un lenguaje que le da formato a texto simple usando caracteres especiales. Puedes guiarte con la siguiente plantilla:
+Un archivo README usualmente se escribe en Markdown. Es un lenguaje que le da formato a un texto simple usando caracteres especiales. Puedes guiarte con la siguiente plantilla:
 
 ```
 # Titulo 1
