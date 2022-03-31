@@ -28,6 +28,8 @@ Tener un proyecto bien documentado trae ventajas tanto para el autor como para l
 * Los desarrolladores pueden colaborar al código sin perder de vista la intención del autor.
 * Los usuarios pueden decidir de manera más fácil si el proyecto es útil para ellos.
 
+Para más información visita [A beginner’s guide to writing documentation — Write the Docs](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/).
+
 ## Cómo crear tu primer README
 
 Usarás un archivo README para crear tu primera documentación. Generalmente, un README es lo primero con lo que el usuario interactúa al abrir un repositorio. Sigue los siguientes pasos para crear tu repositorio junto a un archivo README:
@@ -69,4 +71,4 @@ Intenta ser lo más claro posible.
 
 ## Referencias
 
-[1] “A beginner’s guide to writing documentation — Write the Docs,” Writethedocs.org, 2022. https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/ (accessed Mar. 31, 2022).
+[1] “A beginner’s guide to writing documentation — Write the Docs,” Writethedocs.org, 2022. https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/ (visitado el 30 de marzo del 2022).
