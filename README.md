@@ -32,7 +32,7 @@ Tener un proyecto bien documentado trae ventajas tanto para el autor como para l
 
 Usarás un archivo README para crear tu primera documentación. Generalmente, un README es lo primero con lo que el usuario interactúa al abrir un repositorio. Sigue los siguientes pasos para crear tu repositorio junto a un archivo README:
 
-![graf_p1](https://user-images.githubusercontent.com/70402438/160961603-2b8232cd-a067-4d54-be49-cc06349f76e9.png)
+![graf_p1](https://user-images.githubusercontent.com/70402438/160968390-7796f555-4961-4133-8ed6-0eddd3dd3aee.png)
 
 Posteriormente, entra a tu repositorio y haz click sobre el README. Para poder editarlo, haz click sobre el lápiz en la parte superior derecha. Ahora solo queda darle forma a tu documento.
 
