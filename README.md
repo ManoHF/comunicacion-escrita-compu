@@ -30,7 +30,9 @@ Tener un proyecto bien documentado trae ventajas tanto para el autor como las pe
 
 ## Cómo crear tu primer README
 
-Un documento README es un archivo generalmente escrito usando MARKDOWN que describe el repositorio. Es el primer elemento que se observa al entrar a un repositorio.
+Usarás un archivo README para crear tu primera documentación. Un README es lo primero que aparece al abrir un repositorio. Sigue los siguientes pasos para crear tu repositorio junto a un archivo README:
+
+
 
 ### Cómo escribir usando MARKDOWN
 
