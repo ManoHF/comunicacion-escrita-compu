@@ -55,7 +55,7 @@ Texto normal y una lista:
 Texto en **negritas** y *cursiva*
 ```
 
-Puedes conocer más funcionalidades de este lenguaje en el siguiente [link](https://www.markdownguide.org/cheat-sheet/)
+Puedes conocer más funcionalidades de este lenguaje en [Markdown cheat-sheet](https://www.markdownguide.org/cheat-sheet/).
 
 ### Qué debe contener un README
 
