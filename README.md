@@ -34,7 +34,9 @@ Usarás un archivo README para crear tu primera documentación. Generalmente, un
 
 ![graf_p1](https://user-images.githubusercontent.com/70402438/160961603-2b8232cd-a067-4d54-be49-cc06349f76e9.png)
 
-Posteriormente, entra a tu repositorio y haz click sobre el README. Para poder editarlo haz click sobre el pincel en la parte superior derecha.
+Posteriormente, entra a tu repositorio y haz click sobre el README. Para poder editarlo haz click sobre el lápiz en la parte superior derecha. Ahora solo queda darle forma a tu documento.
+
+![img1_p1](https://user-images.githubusercontent.com/70402438/160965235-de672e9d-c276-4524-9765-e4c639ec0665.png)
 
 ### Cómo escribir usando MARKDOWN
 
@@ -56,6 +58,14 @@ Texto en **negritas** y *cursiva*
 Puedes conocer más funcionalidades de este lenguaje en el siguiente [link](https://www.markdownguide.org/cheat-sheet/)
 
 ### Qué debe contener un README
+
+No olvides incluir dentro de tu archivo:
+* Funcionalidad y descripción completa del proyecto
+* Ejemplos de uso
+* Preguntas y respuestas frecuentes
+* Opciones de contacto
+
+Intenta ser lo más claro posible.
 
 ## Referencias
 
