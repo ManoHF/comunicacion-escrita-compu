@@ -23,9 +23,9 @@ Por lo general, este material será leído por usuarios o desarrolladores. Por u
 
 ## Para qué sirve la documentación
 
-Tener un proyecto bien documentado trae ventajas tanto para el autor como las personas ajenas al proyecto, por ejemplo:
+Tener un proyecto bien documentado trae ventajas tanto para el autor como para las personas ajenas al proyecto, por ejemplo:
 * El código se puede reutilizar meses después.
-* Los desarrolladores pueden colaborar al código sin perder de vista la intención del autor
+* Los desarrolladores pueden colaborar al código sin perder de vista la intención del autor.
 * Los usuarios pueden decidir de manera más fácil si el proyecto es útil para ellos.
 
 ## Cómo crear tu primer README
@@ -34,7 +34,7 @@ Usarás un archivo README para crear tu primera documentación. Generalmente, un
 
 ![graf_p1](https://user-images.githubusercontent.com/70402438/160961603-2b8232cd-a067-4d54-be49-cc06349f76e9.png)
 
-Posteriormente, entra a tu repositorio y haz click sobre el README. Para poder editarlo haz click sobre el lápiz en la parte superior derecha. Ahora solo queda darle forma a tu documento.
+Posteriormente, entra a tu repositorio y haz click sobre el README. Para poder editarlo, haz click sobre el lápiz en la parte superior derecha. Ahora solo queda darle forma a tu documento.
 
 ![img1_p1](https://user-images.githubusercontent.com/70402438/160965235-de672e9d-c276-4524-9765-e4c639ec0665.png)
 
