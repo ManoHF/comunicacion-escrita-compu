@@ -30,11 +30,28 @@ Tener un proyecto bien documentado trae ventajas tanto para el autor como las pe
 
 ## Cómo crear tu primer README
 
-Usarás un archivo README para crear tu primera documentación. Un README es lo primero que aparece al abrir un repositorio. Sigue los siguientes pasos para crear tu repositorio junto a un archivo README:
+Usarás un archivo README para crear tu primera documentación. Generalmente, un README es lo primero con lo que el usuario interactúa al abrir un repositorio. Sigue los siguientes pasos para crear tu repositorio junto a un archivo README:
 
-
+![graf_p1](https://user-images.githubusercontent.com/70402438/160961603-2b8232cd-a067-4d54-be49-cc06349f76e9.png)
 
 ### Cómo escribir usando MARKDOWN
+
+Un archivo README usualmente se escribe en Markdown. Es un lenguaje que le da formato a texto simple usando caracteres especiales. Puedes guiarte con la siguiente plantilla:
+
+```
+# Titulo 1
+## Titulo 2
+
+Texto normal y una lista:
+* Elemento 1
+* Elemento 2
+
+## Titulo 2
+
+Texto en **negritas** y *cursiva*
+```
+
+Puedes conocer más funcionalidades de este lenguaje en el siguiente [link](https://www.markdownguide.org/cheat-sheet/)
 
 ### Qué debe contener un README
 
